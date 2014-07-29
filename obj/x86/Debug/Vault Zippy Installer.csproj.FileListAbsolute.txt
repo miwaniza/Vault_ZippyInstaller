@@ -1,0 +1,45 @@
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Resources\Icon1.ico
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Resources\Help.txt
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.exe.manifest
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.application
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.exe
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.pdb
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en-US\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\ru-RU\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en-US.resources
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en.resources
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.ru-RU.resources
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault Zippy Installer.csproj.GenerateResource.Cache
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en-US\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\ru-RU\Vault zippy installer.resources.dll
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.exe.manifest
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.application
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.exe
+D:\temp\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.pdb
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.exe
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.pdb
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Resources\Icon1.ico
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Resources\Help.txt
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.exe.manifest
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.application
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.exe
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.pdb
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en-US\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\ru-RU\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en-US.resources
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en.resources
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.ru-RU.resources
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault Zippy Installer.csproj.GenerateResource.Cache
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en-US\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\ru-RU\Vault zippy installer.resources.dll
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.exe.manifest
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.application
+D:\Users\drop\Dropbox\Программирование\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault Zippy Installer.csprojResolveAssemblyReference.cache

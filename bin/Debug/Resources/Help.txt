@@ -1,0 +1,50 @@
+Autodesk Vault Zippy Installer v1.2
+===================================
+
+[EN]
+====
+
+Description
+-----------
+This program would be helpfull for administrators and system integrators while installing Autodesk Vault Server.
+
+General Usage Instructions
+--------------------------
+Run application. Select action.
+
+Features
+--------
+*UAC state
+	Button shows current User Access Control (UAC) state by text and color. Click to switch UAC state on whole OS. Requires administrator's privilege.
+*Install Vault-related IIS features
+	Performs installation of all Vault-required IIS features (IIS Metabase and IIS 6 configuration compatibility; IIS Management Console; .NET Extensibility; ASP.NET; ISAPI Extensions; ISAPI Filters; Default Document; Directory Browsing; HTTP Errors; Static Content; HTTP Logging; Request Monitor; Static Content Compression; Request Filtering)
+*Re-register ASP .Net filters
+	Updates registration of ASP .Net filters for x86 and x64 platforms.
+
+Installation/Uninstallation
+---------------------------
+Run installation package, select destination path. This application may  be used as portable.
+
+[RU]
+====
+
+Описание
+--------
+Эта программа позволяет сэкономить значительное количество времени администраторов и системных интеграторов при установке Autodesk Vault Server.
+
+Общие инструкции по применению
+------------------------------
+Запустите приложение. Выберите действие.
+
+Особенности
+-----------
+* Контроль учетных записей
+Цвет кнопки и надпись отображает текущее состояние параметров контроля учетных записей (UAC). Нажмите кнопку для переключения UAC на всей операционной системе. Требуются привилегии администратора .
+* Установить IIS
+Выполняет установку всех необходимых для работы Vault Server ролей и служб IIS (IIS Metabase and IIS 6 configuration compatibility; IIS Management Console; .NET Extensibility; ASP.NET; ISAPI Extensions; ISAPI Filters; Default Document; Directory Browsing; HTTP Errors; Static Content; HTTP Logging; Request Monitor; Static Content Compression; Request Filtering).
+* Перерегистрировать фильтры ASP .Net
+Обновление регистрации фильтров ASP .Net для платформ x86 и x64.
+
+Установка/Удаление
+------------------
+Запустите установочный пакет , выберите путь установки. Приложение может использоваться как портативное.

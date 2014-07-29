@@ -1,0 +1,23 @@
+C:\Users\ed\documents\visual studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ed\documents\visual studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ed\documents\visual studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault PowerPack 2.1.csproj.GenerateResource.Cache
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault PowerPack 2.1.csprojResolveAssemblyReference.cache
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en.resources
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.en-US.resources
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.ru-RU.resources
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.exe
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\Vault zippy installer.pdb
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en-US\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\en\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\ru-RU\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en-US\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\en\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\ru-RU\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.exe
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\Vault zippy installer.pdb
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\de-DE\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\bin\Debug\uk-UA\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.de-DE.resources
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\WindowsFormsApplication1.Form1.uk-UA.resources
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\de-DE\Vault zippy installer.resources.dll
+C:\Users\ed\Documents\Visual Studio 2010\Projects\Vault PowerPack 2.1\Vault PowerPack 2.1\obj\x86\Debug\uk-UA\Vault zippy installer.resources.dll
